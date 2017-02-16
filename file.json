@@ -1,0 +1,20 @@
+{"text":"Massive",
+  "color":"#17a345",
+  "update_color":"true",
+  "size":50,
+  "font":"4",
+  "color_backround":"#ffffff",
+  "Opacity": 0.3,
+  "Height": 15,
+  "CurveSegments":10,
+  "BevelThickness": 5,
+  "BevelSize": 1.5,
+  "BevelEnabled":"true",
+  "Steps": 40,
+  "HSL": 0.5,
+  "time_rotate": 0.25,
+  "time": 0.5,
+  "blending": "THREE.NormalBlending"
+
+
+}
